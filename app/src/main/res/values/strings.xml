@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name" translatable="false">FGDZ</string>
+
+    //Errors
+    <string name="error_connection">Check your internet connection</string>
+    <string name="error_list_empty">List is empty</string>
+    <string name="error_no_decisions">Cant find decision</string>
+    <string name="error_url_error">This page not found 404</string>
+    <string name="error_no_subject">This configuration in not exist</string>
+    <string name="error_some">Some ERROR</string>
+
+    //Decision Activity
+    <string name="thats_all">Its All</string>
+    <string name="dec_condition">Condition</string>
+    <string name="dec_decision1">Decision 1</string>
+    <string name="dec_decision2">Decision 2</string>
+    <string name="dec_decision3">Decision 3</string>
+
+    //BookList
+    <string name="b_list_type">Type: </string>
+    <string name="b_list_authors">Authors: </string>
+
+    //Nav Bars
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_books">StBooks</string>
+
+    //Subjects And Classes
+    <string name="class_1">1 Class</string>
+    <string name="class_2">2 Class</string>
+    <string name="class_3">3 Class</string>
+    <string name="class_4">4 Class</string>
+    <string name="class_5">5 Class</string>
+    <string name="class_6">6 Class</string>
+    <string name="class_7">7 Class</string>
+    <string name="class_8">8 Class</string>
+    <string name="class_9">9 Class</string>
+    <string name="class_10">10 Class</string>
+    <string name="class_11">11 Class</string>
+
+
+    <string name="sub_algebra">Algebra</string>
+
+    <string name="sub_geom">Geometria</string>
+    <string name="sub_maths">Maths</string>
+    <string name="sub_ru">Russian</string>
+    <string name="sub_en">English</string>
+    <string name="sub_ph">Physic</string>
+    <string name="sub_chem">Chemistry</string>
+    <string name="sub_bio">Biology</string>
+    <string name="sub_it">IT</string>
+    <string name="sub_br">Beloruss</string>
+    <string name="sub_uk">Ukrain</string>
+    <string name="sub_fr">French</string>
+    <string name="sub_de">De</string>
+    <string name="sub_history">History</string>
+    <string name="sub_lit">Litr</string>
+    <string name="sub_geo">Geography</string>
+    <string name="sub_ch">Chinese</string>
+    <string name="sub_astr">Astronomy</string>
+    <string name="sub_obj">OBJ</string>
+    <string name="sub_prirod">Prirodoved</string>
+    <string name="sub_music">Music</string>
+    <string name="sub_social">Social ST</string>
+    <string name="sub_okmir">OkMir</string>
+    <string name="sub_ecology">Ecology</string>
+    <string name="sub_tech">Tech</string>
+    <string name="sub_art">Art</string>
+    <string name="sub_cherch">Cherchenie</string>
+    <string-array name="stClasses">
+        <item>@string/class_1</item>
+        <item>@string/class_2</item>
+        <item>@string/class_3</item>
+        <item>@string/class_4</item>
+        <item>@string/class_5</item>
+        <item>@string/class_6</item>
+        <item>@string/class_7</item>
+        <item>@string/class_8</item>
+        <item>@string/class_9</item>
+        <item>@string/class_10</item>
+        <item>@string/class_11</item>
+    </string-array>
+
+    <string-array name="mainSub">
+        <item>@string/sub_maths</item>
+        <item>@string/sub_ru</item>
+        <item>@string/sub_algebra</item>
+        <item>@string/sub_geom</item>
+        <item>@string/sub_en</item>
+        <item>@string/sub_ph</item>
+        <item>@string/sub_chem</item>
+        <item>@string/sub_bio</item>
+        <item>@string/sub_de</item>
+        <item>@string/sub_history</item>
+    </string-array>
+</resources>
